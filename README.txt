@@ -1,4 +1,4 @@
-This is Aaron Bailey's port
+This is Aaron Bailey's portfolio. All credits reserve below.
 
 
 Credits:
